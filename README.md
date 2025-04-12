@@ -1,4 +1,6 @@
-![sal-vulcano-laughing](https://github.com/user-attachments/assets/52b91ddb-7c66-48cd-a313-ea8e423a83cd)
+![impractical-jokers-impractical](https://github.com/user-attachments/assets/6533c3b1-a29e-4357-a399-ea514d5f0795)
+
+
 
 ### I'm Francisco Batalha 👋
 
