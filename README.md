@@ -1,7 +1,8 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=fernandesITN&show_icons=true&theme=radical&layout=compact" />
  </div>
-<div class="tenor-gif-embed" data-postid="7867782048137931427" data-share-method="host" data-aspect-ratio="1.32979" data-width="100%"><a href="https://tenor.com/view/foxy-jumpscare-gif-7867782048137931427">Foxy Jumpscare Sticker</a>from <a href="https://tenor.com/search/foxy+jumpscare-stickers">Foxy Jumpscare Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![foxy-jumpscare](https://github.com/user-attachments/assets/4bc16aab-9c3b-496a-ae19-709c703485ec)
 
 
 ### I'm Francisco Batalha 👋
