@@ -1,6 +1,4 @@
-![foxy-jumpscare](https://github.com/user-attachments/assets/4bc16aab-9c3b-496a-ae19-709c703485ec)![foxy-jumpscare](https://github.com/user-attachments/assets/4bc16aab-9c3b-496a-ae19-709c703485ec)![foxy-jumpscare](https://github.com/user-attachments/assets/4bc16aab-9c3b-496a-ae19-709c703485ec)
-
-
+![sal-vulcano-laughing](https://github.com/user-attachments/assets/52b91ddb-7c66-48cd-a313-ea8e423a83cd)
 
 ### I'm Francisco Batalha 👋
 
